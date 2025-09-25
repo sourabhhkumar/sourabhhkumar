@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, OpenCV**
 
-- 📫 How to reach me **rahulsingh51775177@gmail.com**
+- 📫 How to reach me **sourabhsingh1632005@gmail.com**
 
 <br>
 </br>
