@@ -102,14 +102,17 @@
 </br>
 
 
-<br>
-<div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
-</div>
+
+<!-- Dhoni GIF -->
+<img src="https://media.tenor.com/Uo0pP7pZtUsAAAAC/ms-dhoni-bat-twirl.gif" width="300"/>
+
+<br><br>
+
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+
+<img src="https://i.imgur.com/tzYKRfd.gif" width="200"/>
+
 <hr>
+
 </div>
-</div>
-    </center>
-</body>
