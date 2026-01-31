@@ -106,27 +106,11 @@
 
 <div align="center">
 
-<!-- MS Dhoni Winning GIF -->
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320"/>
+<div align="center">
 
-<br><br>
+<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="320"/>
 
-<h1>🏏 Captain Cool – MS Dhoni 🏆</h1>
-
-<p><b>"Winners never quit, quitters never win."</b></p>
-
-<h2>💙 Legend of Indian Cricket 💙</h2>
-
-<p>2011 World Cup | 2007 T20 | 2013 Champions Trophy</p>
-
-<br>
-
-<h3>✨ Inspired by MS Dhoni ✨</h3>
-
-<p>Never give up. Stay calm. Keep winning.</p>
-
-<hr>
-
+</div>
 <h2>💖 Thanks for Visiting! 💖</h2>
 
 </div>
