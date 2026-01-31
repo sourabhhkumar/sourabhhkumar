@@ -113,6 +113,6 @@
 
 <img src="https://i.imgur.com/tzYKRfd.gif" width="200"/>
 
-<hr>
+<br>
 
 </div>
