@@ -101,26 +101,21 @@
 <br>
 </br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center">
 
-  <!-- Left GIF -->
   <img 
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhhcHowamRoamVkdjhmazFkMDdwd21ic3M4b2htNHBxemN1N3NmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZ79MuJI3JZf3bMcad/giphy.gif" 
-    width="200" 
+    width="300" 
+    style="margin-right: 15px;"
   />
 
-  <!-- Center Text -->
-  <h2 style="margin: 0 15px;">
-    💖 Thanks for Visiting! 💖
-  </h2>
-
-  <!-- Right GIF -->
   <img 
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxkOWl5aGY3dTFibGxkamlwbXdwYndwY3Y1MWdrZjR6enViaDV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BNi7C5UMRNIybojdtl/giphy.gif" 
-    width="200" 
+    width="300" 
   />
 
-</div>
+  <h2>💖 Thanks for Visiting! 💖</h2>
 
 </div>
+
 
