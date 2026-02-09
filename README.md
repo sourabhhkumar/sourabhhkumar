@@ -104,13 +104,17 @@
 
 <div align="center">
 
-<div align="center">
+  <div align="center">
 
-<div align="center">
+    <div align="center">
 
-<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="320"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhhcHowamRoamVkdjhmazFkMDdwd21ic3M4b2htNHBxemN1N3NmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NZ79MuJI3JZf3bMcad/giphy.gif" width="320"/>
+
+    </div>
+
+    <h2>💖 Thanks for Visiting! 💖</h2>
+
+  </div>
 
 </div>
-<h2>💖 Thanks for Visiting! 💖</h2>
 
-</div>
